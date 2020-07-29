@@ -1,0 +1,98 @@
+/*=========================nav bar================*/
+.nav-extra{
+   padding-top: 3cm;
+   padding-bottom: 3cm;
+}
+
+.navbar-brand {
+  padding-left: 20px;
+}
+
+.navbar-nav {
+  margin-right: 30px;
+}
+.btn-edit{
+
+	position: absolute;
+	margin-left: 70%;
+}
+/*=========================carousel===================*/
+.carousel-size{
+   max-height: 650px;
+}
+
+/*=======================body======================*/
+
+.heading{
+   font-size: 50px;
+   margin-top:2cm;
+   margin-bottom: 1cm;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.space{
+   padding-bottom: 1cm;
+}
+.center-card{
+   margin-left: 33.5%;
+}
+
+/*==========sign up section==================*/
+.sec-h1{
+   margin-top: 0;
+   color: floralwhite;
+	margin-left: 2cm;
+	text-align: left;
+	font-size: 60px;
+
+}
+.sec-h2{
+	color: floralwhite;
+	margin-left: 2cm;
+	text-align: left;
+	font-size: 40px;
+}
+.sec-edit{
+	margin: 0px;
+	padding:10px;
+	background-color: orangered;
+
+}
+.btn-edit{
+	font-size: 30px;
+	position: absolute;
+   margin-left: 60%;
+   height: 50px;
+   width: 150px;
+}
+
+/*========================footer===========================*/
+footer {
+	padding:20px;
+   background:orangered !important;
+   color:white
+}
+
+
+.sub-footer  {
+	background:#363636;
+   padding:30px;
+   color: floralwhite;
+   text-align: center;
+}
+
+footer h4 {
+	margin-bottom:30px;
+	text-transform:uppercase;
+	text-shadow:none;
+	font-weight:550;
+	color:#fff;
+}
+.footer-mid{
+   margin-top:2cm;
+   margin-left:0cm;
+}
+
+.link-color{
+color:white;
+}
